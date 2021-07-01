@@ -1,0 +1,28 @@
+{
+  "name": "pets",
+  "version": "0.1.0",
+  "description": "adoption site for pets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emacr15/Proyecto-Pets.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Emanuelle Hidalgo Obando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emacr15/Proyecto-Pets/issues"
+  },
+  "homepage": "https://github.com/Emacr15/Proyecto-Pets#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node.js": "0.0.1-security"
+  }
+}
