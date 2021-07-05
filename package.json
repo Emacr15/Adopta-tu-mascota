@@ -11,6 +11,7 @@
     "url": "git+https://github.com/Emacr15/Proyecto-Pets.git"
   },
   "keywords": [
+    "Node.js",
     "Express",
     "MongoDB"
   ],
@@ -22,6 +23,7 @@
   "homepage": "https://github.com/Emacr15/Proyecto-Pets#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongodb": "^3.6.9",
     "node.js": "0.0.1-security"
   }
 }

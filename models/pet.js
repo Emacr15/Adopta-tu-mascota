@@ -1,9 +1,9 @@
 const { raw } = require("express");
 
 class Pet {
-    constructor(name, age, species ,race, picture, description) {
+    constructor(name, age, species, race, picture, description) {
         this.name = name;
-        this.age= age;
+        this.age = age;
         this.species = species;
         this.race = race;
         this.picture = picture;
@@ -11,5 +11,5 @@ class Pet {
 
     }
 }
- 
+
 module.exports = Pet;
